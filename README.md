@@ -1,5 +1,5 @@
 # my-design-patterns
-常用设计模式C++实现
+常用设计模式实现
 
 1. 组合模式 `Composite.h`
 2. 策略模式 `Strategy.h`
